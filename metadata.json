@@ -1,0 +1,7 @@
+{
+  "name": "Smart Recipe Converter",
+  "description": "Transform recipes with AI: Dietary swaps, regional adaptations, smart scaling, and nutrition insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
